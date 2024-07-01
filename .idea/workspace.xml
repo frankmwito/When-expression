@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6da9736-3dd9-4a19-8dee-046055e821f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/When statement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="f6da9736-3dd9-4a19-8dee-046055e821f2" name="Changes" comment="When expression codes for practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Age__groupKt.executor": "Run",
     "Kotlin.Calculate_operationKt.executor": "Run",
     "Kotlin.Day_of_the_weekKt.executor": "Run",
     "Kotlin.Grade_EvaluationKt.executor": "Run",
@@ -67,6 +57,75 @@
       <option name="presentableId" value="Default" />
       <updated>1719854609995</updated>
     </task>
+    <task id="LOCAL-00001" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861533824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861533824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861568112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861568112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861583377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861583377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861592543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861592543</updated>
+    </task>
+    <task id="LOCAL-00005" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861604141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861604142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861616945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861616945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861625675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861625675</updated>
+    </task>
+    <task id="LOCAL-00008" summary="When expression codes for practice">
+      <option name="closed" value="true" />
+      <created>1719861654624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861654624</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="When expression codes for practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="When expression codes for practice" />
   </component>
 </project>
